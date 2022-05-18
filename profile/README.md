@@ -1,13 +1,11 @@
 # Learode, 
 _all the journey_
-```
 
 🙋‍♀️ Learode is just a space to put all my learning examples, exercises, coding challenges and the more.
 My actual account [@mulfranck](https://github.com/mulfranck) is mainly for tangible projects, no more learning code done by me when be there.
 
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
